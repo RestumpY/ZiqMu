@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<inscriptions>
+    
+    <inscription>
+        <numero></numero>
+        <nom></nom>
+        <prenom></prenom>
+        <adresse></adresse>
+        <mail></mail>
+    </inscription>
+   
+    
+</inscriptions>
